@@ -100,7 +100,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## License
-This skin was created by modifying Eclectic Tech's [Open Meteo Weather] skin. Which Ecletic Tech distributes under the CC-BY-NC-SA-4.0 license. As such this skin is distributed under that same license:
+This skin was created by modifying Eclectic Tech's [Open Meteo Weather](https://forum.rainmeter.net/viewtopic.php?t=43158) skin. Which Ecletic Tech distributes under the CC-BY-NC-SA-4.0 license. As such this skin is distributed under that same license:
 <br>
 Creative Commons Attribution Non Commercial Share Alike 4.0 International
 Short identifier
