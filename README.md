@@ -70,7 +70,7 @@ I love the whole Synthwave aesthetic! I like the music, artists like [Dreamkid](
 ### Prerequisites
 
 * Download Rainmeter from [https://www.rainmeter.net/](https://www.rainmeter.net/)
-* Download the skins from [my site](https://entropybit.s3.eu-west-1.amazonaws.com/Neon+Synthwave+Weather_0.4.rmskin)
+* Download the skins from [my site](https://entropybit.s3.eu-west-1.amazonaws.com/Neon+Synthwave+Weather_0.5.rmskin)
 
 ### Installation
 * Install Rainmeter, [following the excellent documentation if you need it](https://docs.rainmeter.net/manual/installing-rainmeter/)
